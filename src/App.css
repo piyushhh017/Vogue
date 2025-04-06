@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  background: rgb(35,35,35);
+  background: radial-gradient(circle, rgba(35,35,35,1) 0%, rgba(0,0,0,1) 100%);
+}
